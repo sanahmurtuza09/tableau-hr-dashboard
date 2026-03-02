@@ -1,7 +1,5 @@
 # Human Resources Analytics Dashboard (Tableau)
 
-An interactive HR analytics dashboard built in Tableau Public to explore workforce composition, compensation trends, and employee lifecycle metrics.
-
 🔗 **Live Dashboard:**  
 https://public.tableau.com/app/profile/sanah.murtuza/viz/HRDashboard_17688351295730/SummaryDashboard
 
