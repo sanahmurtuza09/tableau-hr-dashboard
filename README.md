@@ -93,6 +93,19 @@ This dashboard can be used by:
 - Tableau calculated fields
 - Interactive UX design
 - Data structuring for analytics
+  
+---
+
+## 📷 Screenshots
+
+### Overview Dashboard
+![Overview](screenshots/overview.png)
+
+### Drill-down Example
+![Drilldown](screenshots/drilldown.png)
+
+### Employee Details View
+![Details](screenshots/details.png)
 
 ---
 
