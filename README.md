@@ -105,7 +105,7 @@ This dashboard can be used by:
 
 Below is a short walkthrough of the dashboard in action.
 
-![Dashboard Demo](screenshots/demo.gif)
+[screenshots/demo.gif](https://github.com/sanahmurtuza09/tableau-hr-dashboard/blob/main/screenshots%3Ademo.gif)
 
 ## Screenshots
 
