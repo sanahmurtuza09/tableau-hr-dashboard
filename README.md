@@ -11,6 +11,25 @@ This dashboard provides both an executive-level summary and a detailed employee 
 
 ---
 
+## Interactive Demo
+
+Below is a short walkthrough of the dashboard in action.
+
+[screenshots/demo.gif](https://github.com/sanahmurtuza09/tableau-hr-dashboard/blob/main/screenshots%3Ademo.gif)
+
+## Screenshots
+
+### Overview Dashboard
+![Overview](screenshots/overview.png)
+
+### Drill-down Example
+![Drilldown](screenshots/drilldown.png)
+
+### Employee Details View
+![Details](screenshots/details.png)
+
+---
+
 ## Business Insights
 
 - 7,984 active employees with 966 terminations indicate moderate workforce turnover.
@@ -29,7 +48,7 @@ These insights can support retention strategy, compensation planning, and workfo
 - Hover marks to view detailed tooltips
 - Navigate across dashboard tabs for summary vs detail views
 
-  ** Metrics Dictionary**
+### Metrics Dictionary
   - Active Employees: current employees (Status = Hired/Active)
   - Terminated: employees with Termdate populated
   - Length of Employment: difference between Hiredate and Termdate (or Today if active)
@@ -99,25 +118,6 @@ This dashboard can be used by:
 - Interactive UX design
 - Data structuring for analytics
   
----
-
-## Interactive Demo
-
-Below is a short walkthrough of the dashboard in action.
-
-[screenshots/demo.gif](https://github.com/sanahmurtuza09/tableau-hr-dashboard/blob/main/screenshots%3Ademo.gif)
-
-## Screenshots
-
-### Overview Dashboard
-![Overview](screenshots/overview.png)
-
-### Drill-down Example
-![Drilldown](screenshots/drilldown.png)
-
-### Employee Details View
-![Details](screenshots/details.png)
-
 ---
 
 ## Author
