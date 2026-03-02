@@ -1,6 +1,6 @@
 # Human Resources Analytics Dashboard (Tableau)
 
-🔗 **Live Dashboard:**  
+ **Live Dashboard:**  
 https://public.tableau.com/app/profile/sanah.murtuza/viz/HRDashboard_17688351295730/SummaryDashboard
 
 ---
@@ -28,6 +28,13 @@ These insights can support retention strategy, compensation planning, and workfo
 - Use filters to segment (Status, Location, Department, etc.)
 - Hover marks to view detailed tooltips
 - Navigate across dashboard tabs for summary vs detail views
+
+  ** Metrics Dictionary**
+  - Active Employees: current employees (Status = Hired/Active)
+  - Terminated: employees with Termdate populated
+  - Length of Employment: difference between Hiredate and Termdate (or Today if active)
+  - Salary: annual base salary (simulated)
+  - Performance: categorical rating (Excellent/Good/etc.)
 
 ---
 
@@ -94,7 +101,7 @@ This dashboard can be used by:
   
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ### Overview Dashboard
 ![Overview](screenshots/overview.png)
