@@ -15,7 +15,7 @@ This dashboard provides both an executive-level summary and a detailed employee 
 
 Below is a short walkthrough of the dashboard in action.
 
-[screenshots/demo.gif](https://github.com/sanahmurtuza09/tableau-hr-dashboard/blob/main/screenshots%3Ademo.gif)
+[hr_dashboard_demo.gif](https://github.com/sanahmurtuza09/tableau-hr-dashboard/blob/main/hr_dashboard_demo.gif)
 
 ## Screenshots
 
