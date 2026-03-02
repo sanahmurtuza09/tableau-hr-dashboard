@@ -101,6 +101,12 @@ This dashboard can be used by:
   
 ---
 
+## Interactive Demo
+
+Below is a short walkthrough of the dashboard in action.
+
+![Dashboard Demo](screenshots/demo.gif)
+
 ## Screenshots
 
 ### Overview Dashboard
