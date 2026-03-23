@@ -20,13 +20,13 @@ Below is a short walkthrough of the dashboard in action.
 ## Screenshots
 
 ### Overview Dashboard
-![Overview](screenshots/overview.png)
+![Overview](https://github.com/sanahmurtuza09/tableau-hr-dashboard/blob/main/screenshots%3Aoverview.png)
 
 ### Drill-down Example
-![Drilldown](screenshots/drilldown.png)
+![Drilldown](https://github.com/sanahmurtuza09/tableau-hr-dashboard/blob/main/screenshots%3Adrilldown.png)
 
 ### Employee Details View
-![Details](screenshots/details.png)
+![Details](https://github.com/sanahmurtuza09/tableau-hr-dashboard/blob/main/screenshots%3Adetails.png)
 
 ---
 
